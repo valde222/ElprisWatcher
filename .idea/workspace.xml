@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="427077d5-ec82-4e5a-a27f-56e903e4e027" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dataRetriever.java" afterDir="false" />
+    <list default="true" id="427077d5-ec82-4e5a-a27f-56e903e4e027" name="Changes" comment="Start på program, simpel api kald som outputter i terminal">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dataRetriever.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dataRetriever.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +23,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="0ec950c0-0351-4e46-8006-a77724243da9" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -44,7 +41,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/valde/OneDrive/Skrivebord/Alt/Programmering/Programmering Personlige Projekter/ElprisWatcher"
+    "last_opened_file_path": "C:/Users/valde/OneDrive/Skrivebord/Alt/Programmering/Programmering Personlige Projekter/yatzySpil"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -56,8 +53,18 @@
       <option name="presentableId" value="Default" />
       <updated>1670012073985</updated>
       <workItem from="1670012075931" duration="6246000" />
-      <workItem from="1670334903552" duration="2215000" />
+      <workItem from="1670334903552" duration="2900000" />
+      <workItem from="1670489059081" duration="678000" />
+      <workItem from="1670937255359" duration="14883000" />
     </task>
+    <task id="LOCAL-00001" summary="Start på program, simpel api kald som outputter i terminal">
+      <created>1670337745910</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670337745912</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,5 +80,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Start på program, simpel api kald som outputter i terminal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Start på program, simpel api kald som outputter i terminal" />
   </component>
 </project>
